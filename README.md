@@ -50,3 +50,6 @@ O projeto foi criado com foco em organização, layout limpo e estrutura bem def
 Vitor Acioli Vanderlei  
 Tecnólogo em Análise e Desenvolvimento de Sistemas  
 Em transição para a área de TI
+## 🌎 Deploy
+
+🔗 [Ver projeto online] https://vitoracioli23.github.io/landing-page-responsiva/
